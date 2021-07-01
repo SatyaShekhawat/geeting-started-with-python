@@ -11,3 +11,14 @@ Hello SATYA
 >>> print("Hello SATYA")
 Hello SATYA
 >>> 
+# type checking of data
+>>> x=10
+>>> 
+>>> type(x)
+<class 'int'>
+>>> 
+>>> x="10"
+>>> 
+>>> type(x)
+<class 'str'>
+>>> 
