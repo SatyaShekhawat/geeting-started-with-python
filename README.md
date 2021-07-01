@@ -22,3 +22,14 @@ Hello SATYA
 >>> type(x)
 <class 'str'>
 >>> 
+# Indexing and range printing in string
+>>> x='hello'
+>>> x[0:1]
+>>> 'h'
+>>> x[0:2]
+>>> 'he'
+>>> x[1:4]
+>>> 'ell'
+
+
+
